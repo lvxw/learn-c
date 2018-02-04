@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="test_switch.cpp">
+    <ClCompile Include="App.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

@@ -11,9 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{422AFCDD-FB17-4C1E-9920-1D3A50FDD0C3}</ProjectGuid>
+    <ProjectGuid>{AA8ACC58-1FFC-485D-8A12-27A018774650}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>basicgrammar</RootNamespace>
+    <RootNamespace>test_for</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -78,7 +78,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="test_switch.cpp" />
+    <ClCompile Include="C:\Users\lxw\Desktop\新建文件夹 %282%29\for1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
